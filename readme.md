@@ -21,8 +21,6 @@ For the base use these settings, (make sure you add the drawing.pdf file below t
 | Parameter | Value |
 |-----------|-------|
 | CNC file | base.step |
-| Dimensions | 70×40×6mm |
-| Volume | 5519.6mm³ |
 | Qty | 2 |
 | Material | Aluminum 6061 |
 | Surface Finish | No |
@@ -36,9 +34,7 @@ For the base use these settings, (make sure you add the drawing.pdf file below t
 For the spacer use these settings:
 | Parameter | Value |
 |-----------|-------|
-| CNC file | spacer_7point6mm.step |
-| Dimensions | 70×24.18×5.1mm |
-| Volume | 7815.63mm³ |
+| CNC file | spacer_(pick size).step |
 | Qty | 2 |
 | Material | POM(White) |
 | Surface Finish | No |
