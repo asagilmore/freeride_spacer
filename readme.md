@@ -1,5 +1,7 @@
 # Freeride Spacer
 
+![Freeride Spacer](./render.png)
+
 This is a freeride spacer for making lightweight tech bindings ski a bit better. Similar to those used
 on ATK bindings, but capable of fitting under low
 stack height bindings, as low as 6.5mm.
