@@ -1,12 +1,13 @@
 # Freeride Spacer
 
-![Freeride Spacer](./render.PNG)
+![Freeride Spacer](./figures/render.PNG)
 
 ## Project Idea
 
 The idea for this project started with inspiration from Cy Whitling,
 in his blog post on his ultra-light [frankenbinding](https://www.powder.com/gear/so-you-want-to-mess-around-with-lighter-bindings)
 made from a Ski Trab toe piece and an ATK heel.
+![Binding Photo](./figures/1.jpeg)
 
 Part of the key to Cy's success riding tiny bindings on much bigger (and more fun)
 skis comes from the use of a freeride spacer, a simple block between the heel of
@@ -33,6 +34,7 @@ One key feature of my spacer is having an ultra-low stack height of 6.5mm,
 which is crucial for compatibility with ultra light tech bindings such
 as the ATK hate route heel used here.
 
+
 ## Design Details
 
 The design of the spacer is ridiculously simple and easy to manufacture.
@@ -47,6 +49,8 @@ surface to slide on the polished aluminum base.
 
 Finally, a simple elastic band holds the piece in the center, while allowing it to
 slide out of the way in a release situation.
+
+This whole setup weighs under 26 grams ![Weight photo](./figures/weight.jpeg)
 
 ## Order instructions
 
@@ -104,7 +108,12 @@ Finally, I would recommend applying some machine grease between the base and spa
 
 Now just insert the spacer and loop though the shock cord and tie it off. Now you should be ready to ski!
 
-![Skiing Picture](./ski_photo.jpeg)
+## Extra
+
+I personally have this space with a ski trab toe and atk haute route heel mounted
+on a pair of line vision 108's, and it has
+performed great with over 20 days on them so far.
+![Skiing Picture](./figures/ski_photo.jpeg)
 
 These bindings held up great for this icy and exposed decent of the south face of
 Mt. Hood.
