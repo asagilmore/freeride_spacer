@@ -7,7 +7,7 @@
 The idea for this project started with inspiration from Cy Whitling,
 in his blog post on his ultra-light [frankenbinding](https://www.powder.com/gear/so-you-want-to-mess-around-with-lighter-bindings)
 made from a Ski Trab toe piece and an ATK heel.
-![Binding Photo](./figures/1.jpeg)
+![Binding Photo](./figures/binding.png)
 
 Part of the key to Cy's success riding tiny bindings on much bigger (and more fun)
 skis comes from the use of a freeride spacer, a simple block between the heel of
@@ -50,7 +50,11 @@ surface to slide on the polished aluminum base.
 Finally, a simple elastic band holds the piece in the center, while allowing it to
 slide out of the way in a release situation.
 
-This whole setup weighs under 26 grams ![Weight photo](./figures/weight.jpeg)
+This whole setup weighs under 26 grams ![Weight photo](./figures/weight.png)
+
+Note that I have updated the files and render with a new version that should be
+cheaper to manufacture and save some weight, but I haven't actually built this one
+as my previous version is still working fine.
 
 ## Order instructions
 
