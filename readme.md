@@ -1,6 +1,6 @@
 # Freeride Spacer
 
-![Freeride Spacer](./figures/render.PNG)
+![Freeride Spacer](./figures/render.png)
 
 ## Project Idea
 
@@ -101,20 +101,37 @@ Now you should be all set to order!
 
 Each spacer uses 2x M5 flat head screws, and about 10cm of 2mm [shock cord](https://www.amazon.com/dp/B088QLQL27?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1).
 
-The spacers will likely not fit out of the box, as its hard to dial in the tolerances without ordering alot of different spacers, so just sand/scrape the sides until it slides with relativly low friction.
+The spacers will likely not fit out of the box, as it's hard to dial in the tolerances without ordering a lot of different spacers. Make sure you order on the tall side,
+and then just sand down until you can just barely pull a piece of paper out from between the boot
+and spacer without it ripping. You also might need to lightly sand some plastic off
+the edge of the spacer to make sure it has enough clearance to slide freely in the base.
 
 Then just measure and drill two holes (4.2mm), and screw in the base with epoxy/wood glue in the holes.
-Finally, I would recommend applying some machine grease between the base and spacer to reduce icing and friction.
+I would try to put this spacer in the middle of where your heel rests inside the boot, though it shouldn't matter
+too much.
+I would also recommend applying some machine grease (chapstick works fine in a pinch) between the base and spacer to reduce icing and friction.
 
-Now just insert the spacer and loop though the shock cord and tie it off. Now you should be ready to ski!
+Finally, just insert the spacer and loop the shock cord through and tie it off.
 
-## Extra
+Now go skiing!
 
-I personally have this space with a ski trab toe and atk haute route heel mounted
-on a pair of line vision 108's, and it has
-performed great with over 20 days on them so far.
+## My Experience so far
+
+I personally have this spacer setup with a ski trab toe and atk haute route heel mounted
+on a pair of line vision 108's, and it has performed great with over 2 seasons on
+them so far, with the "din" set at 9.
+
+I think a lot of people would be surprised how well these light bindings perform
+with a spacer like this. With the elasticity in the trab toe combined with this spacer,
+I pretty much never lock my toe unless I am skiing in a no fall zone, and have been able
+to charge bumpy icy snow without a prerelease ever happening, as well as dropping some
+moderate sized cliffs and landing backseat. Though I will note
+that I am not the biggest person out there at 170lb, so bigger folks should take
+my experience here with a grain of salt.
+
 ![Skiing Picture](./figures/ski_photo.jpeg)
 
 These bindings held up great for this icy and exposed decent of the south face of
-Mt. Hood.
+Mt. Hood (toe unlocked for all but the very first part over exposure, where I would have
+locked any binding I was on).
 
